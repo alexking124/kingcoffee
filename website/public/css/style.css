@@ -24,7 +24,8 @@ img {
   padding: 4px 0 3px;
   background: transparent url(../images/bg-menu.gif) repeat-x scroll 0% 50%;
   height: 40px;
-  width: 735px;
+  display: inline-block;
+  width: auto;
   list-style-type: none;
   list-style-image: none;
   list-style-position: outside;
